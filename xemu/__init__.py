@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+# -*- mode: python -*-
+# ---------------------------------------------------------------------------
+#  法華經 · 普門品
+#  若有無邊百千萬億眾生　受諸苦惱
+#  聞是觀世音菩薩名者　即得解脫
+# ---------------------------------------------------------------------------
+#  Точка входа пакета. Ничего лишнего: только имена.
+# ---------------------------------------------------------------------------
+
+from .O0O0OOO0OOOO00OO import O00O000O00OO0O0O, O00O000O0OO0000O
+from .O0OOOO00000OO0O0 import O00O00000O0O000O, O00O0OOOO0OOO00O, O0000O0O0OO00O0O, O000OO0OO000O000, O000O00000OO0000
+from .OO0O0OO0O0OOO00O import O00OO0O0000O00O0, O000OOOO00O0OO00, O00O000O00O0O000
+from .OOOO00OO00OO0O0O import O0000O0OO0O0O0OO, O00O0O0OO0O0O000, O0000OO00O0000OO
+from .OOOO00OO00OO0O0O import OO00O000O00OOOO0, OO00O0000OO0OOOO, OO00O0000OOOOOOO, OO00O000O00OOO0O
+from .OOO0OO0OOOOO0OOO import O000OO0000O0OO00, O000OOOO000O0O0O, OOO0000O00OOOOO0
+from .O000OOO00000O000 import O000O0O000O0OOO0, O000O0O0O0OOO0OO, O000O0O0O0O0OO0O, O000O0O000O00OOO, O00OO0OO0O00O0O0, O000O000OO0O0OO0
+from .O0OOO0O00OOO0000 import O00O000O000O0OOO
+
